@@ -33,14 +33,12 @@ O NLW é uma experiência online com muito conteúdo prático e desafios. Esse c
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no Figma:
-
-[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546)
+O layout da aplicação está disponível no Figma: [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546)
 
 
 ### :iphone: Mobile
 
-<p align="center">
+<p align="left">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/tgmarinho/Ecoleta/blob/master/assets/home-mobile.png" width="200px">
 
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/tgmarinho/Ecoleta/blob/master/assets/detalhes-mobile.svg" width="200px">
@@ -48,7 +46,7 @@ O layout da aplicação está disponível no Figma:
 
 ### :computer: Web
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+<p align="left" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/tgmarinho/Ecoleta/blob/master/assets/web.svg" width="400px">
 </p>
 
@@ -76,7 +74,8 @@ Podemos considerar este projeto como sendo divido em três partes:
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 - [Git](https://git-scm.com) 
-- [Node.js][nodejs]. 
+- [Node.js][nodejs]
+
 Além disto é bom ter um editor para trabalhar com o código como 
 - [VSCode][vscode]
 
@@ -122,7 +121,6 @@ $ npm run start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
-### Rodando a aplicação mobile... ainda não desenvolvida :space_invader:
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
